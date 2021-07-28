@@ -24,7 +24,7 @@ int a = sinput.nextInt();
 
 ## Number systems
 
-### Two's Complement
+##### Two's Complement
 
 _Useful links: [source](https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html#:~:text=Two's%20complement%20is%20the%20way,add%20one%20to%20the%20result.&text=That%20is%20how%20one%20would%20write%20%2D28%20in%208%20bit%20binary.)_ _[conversion tool](https://www.rapidtables.com/convert/number/decimal-to-binary.html)_
 
